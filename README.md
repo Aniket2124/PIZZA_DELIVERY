@@ -7,4 +7,4 @@
 
     - copy token and paste in .env file
 
-# set DEBUG = True i .env
+# set DEBUG = True  in .env
